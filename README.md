@@ -26,7 +26,8 @@ A estrutura desenvolvida inclui:
 
 * **index.html** → Página inicial do site.  
 * **sobre.html** → Página secundária com informações adicionais.  
-* **contato.html** → Página de contato.  
+* **contato.html** → Página de contato.
+* **meusprojetos.html** → Página de projetos. 
 
 ---
 
